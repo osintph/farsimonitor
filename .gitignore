@@ -1,0 +1,23 @@
+# Credentials
+.env
+*.session
+*.session-journal
+
+# Output (optional — remove these lines if you want to push output)
+output/
+media/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+venv/
+.venv/
+*.egg-info/
+dist/
+build/
+
+# OS
+.DS_Store
+Thumbs.db
+
